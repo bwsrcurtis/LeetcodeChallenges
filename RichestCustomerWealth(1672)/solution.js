@@ -1,3 +1,0 @@
-var maximumWealth = function (accounts) {
-
-};
