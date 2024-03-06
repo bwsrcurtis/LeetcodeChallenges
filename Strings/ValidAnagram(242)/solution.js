@@ -1,4 +1,8 @@
 var isAnagram = function (s, t) {
+	// Check for empty string
+	if (s.length == 0 && t.length == 0) {
+		return true
+	}
 	if (s.length == t.length && s.length > 0) {
 		// Initialize to empty objects to hold values
 		let sCharCounter = {}
