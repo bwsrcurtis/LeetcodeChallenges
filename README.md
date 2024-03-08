@@ -10,11 +10,11 @@
 
 #### Arrays
 
-[LC 1480. Running Sum of 1D Array](Arrays/RunningSumOf1DArray(1480))
+[LC 1. Two Sum](Arrays/TwoSum(1))
 
 [LC 217. Contains Duplicate](Arrays/ContainsDuplicate(217))
 
-[LC 1. Two Sum](Arrays/TwoSum(1))
+[LC 1480. Running Sum of 1D Array](Arrays/RunningSumOf1DArray(1480))
 
 #### Two Pointers
 
