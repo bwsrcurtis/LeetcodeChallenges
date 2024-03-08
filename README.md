@@ -14,6 +14,8 @@
 
 [LC 217. Contains Duplicate](Arrays/ContainsDuplicate(217))
 
+[LC 1. Two Sum](Arrays/TwoSum(1))
+
 #### Two Pointers
 
 #### Sliding Window
