@@ -18,7 +18,6 @@
 
 [LC 1480. Running Sum of 1D Array](Arrays/RunningSumOf1DArray(1480))
 
-
 #### Two Pointers
 
 #### Sliding Window
