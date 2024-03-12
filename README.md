@@ -16,6 +16,8 @@
 
 [LC 217. Contains Duplicate](Arrays/ContainsDuplicate(217))
 
+[LC 347. Top K Frequent Elements](Arrays/TopKFrequentElements(347))
+
 [LC 1480. Running Sum of 1D Array](Arrays/RunningSumOf1DArray(1480))
 
 #### Two Pointers
