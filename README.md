@@ -4,10 +4,6 @@
 
 ### Completed Solutions
 
-#### Strings
-
-[LC 242. Valid Anagram](Strings/ValidAnagram(242))
-
 #### Arrays
 
 [LC 1. Two Sum](Arrays/TwoSum(1))
@@ -17,6 +13,8 @@
 [LC 217. Contains Duplicate](Arrays/ContainsDuplicate(217))
 
 [LC 238. Product of Array Except Self](Arrays/ProductOfArrayExceptSelf(238))
+
+[LC 242. Valid Anagram](Arrays/ValidAnagram(242))
 
 [LC 271. Encode and Decode Strings](Arrays/EncodeAndDecodeStrings(271))
 
