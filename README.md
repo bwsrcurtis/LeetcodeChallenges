@@ -10,6 +10,8 @@
 
 [LC 49. Group Anagrams](Arrays/GroupAnagrams(49))
 
+[LC 128. Longest Consecutive Sequence](Arrays/LongestConsecutiveSequence(128))
+
 [LC 217. Contains Duplicate](Arrays/ContainsDuplicate(217))
 
 [LC 238. Product of Array Except Self](Arrays/ProductOfArrayExceptSelf(238))
